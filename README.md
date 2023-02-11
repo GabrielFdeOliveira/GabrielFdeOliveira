@@ -1,8 +1,6 @@
-- 👋 :brazil:	 Hi, I’m Gabriel, brazilian man living in England and trying to make a career change at the age of 32!
-- 👀 I’m interested in nature, birds, MMA, games, cars, gym, nutrition and wellbeing.
-- 💞️ I’m looking to collaborate on... I'm not sure about that yet.
-- 📫 How to reach me on Discord, Facebook, Instagram and abviously here.
-- @GdeOliveira#7509
+- 👋 :brazil:	 - I'm a 33-year-old Brazilian who is making a career change from the automotive industry to technology. I have a beautiful relationship with feedback, It          helped me improve my English skills and I believe it will continue to serve me well in the tech industry!
+- When I'm not coding, I enjoy staying active through workouts, gaming, exploring the beauty of the British countryside, or simply observing birds in nature.
+- 📫 How to reach me on, Facebook, Instagram and abviously here.
 - @Gabriel de Oliveira
 - @gbl.oliveira77
 

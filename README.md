@@ -1,6 +1,7 @@
-- 👋 Hi! I'm a 33-year-old Brazilian who is making a career change from the automotive industry to technology. I have a beautiful relationship with feedback, It          helped me improve my English skills and I believe it will continue to serve me well in the tech industry!
+- 👋 Hi, I am a Brazilian who has a beautiful relationship with feedback, it was the tool I used to develop my English skills, and if it helped me with that I believe it will continue to serve me well in the tech industry!
 - When I'm not coding, I enjoy staying active through workouts, gaming, exploring the beauty of the British countryside, or simply observing birds in nature.
-- 📫 How to reach me on, Facebook, Instagram and abviously here.
+- 📫 How to reach me on, LinkedIn Facebook, Instagram and obviously here.
+- https://www.linkedin.com/in/gabriel-f-de-oliveira-05719524b/
 - @Gabriel de Oliveira
 - @gbl.oliveira77
 
